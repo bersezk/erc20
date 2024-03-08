@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 contract MztacatCommunity {
-    string public name = "SimpleERC20";
+    string public name = "ERC20";
     string public symbol = "erc20";
     uint8 public decimals = 18;
     uint256 public totalSupply = 1000000 * (10 ** uint256(decimals));
